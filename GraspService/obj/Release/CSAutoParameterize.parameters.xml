@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="GraspServiceContext-Web.config Connection String" description="GraspServiceContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(localdb)\v11.0; Initial Catalog=GraspServiceContext-20150330161722; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|GraspServiceContext-20150330161722.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Administrator\\Desktop\\GraspService\\GraspService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='GraspServiceContext']/@connectionString" />
+  </parameter>
+</parameters>

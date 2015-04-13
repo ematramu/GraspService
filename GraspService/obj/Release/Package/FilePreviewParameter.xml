@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site/GraspService" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Administrator\\Desktop\\GraspService\\GraspService\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Administrator\\Desktop\\GraspService\\GraspService\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="GraspServiceContext-Web.config Connection String" description="" value="Data Source=(localdb)\v11.0; Initial Catalog=GraspServiceContext-20150330161722; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|GraspServiceContext-20150330161722.mdf" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Administrator\\Desktop\\GraspService\\GraspService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='GraspServiceContext']/@connectionString" />
+  </parameter>
+</parameters>
