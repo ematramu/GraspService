@@ -1,0 +1,12 @@
+2015-05-12 11:13:29,588 [10] DEBUG GraspService.Controllers.ViewsController test
+2015-05-12 12:22:23,363 [8] DEBUG GraspService.Controllers.ViewsController INIZIO existView
+2015-05-12 14:50:52,916 [13] DEBUG GraspService.Controllers.ViewsController INIZIO existView
+2015-05-12 14:51:01,320 [13] DEBUG GraspService.Controllers.ViewsController FINE existView
+2015-05-12 14:52:14,199 [19] DEBUG GraspService.Controllers.ViewsController INIZIO existView
+2015-05-12 14:52:14,346 [19] DEBUG GraspService.Controllers.ViewsController FINE existView
+2015-05-12 14:52:19,444 [19] DEBUG GraspService.Controllers.ViewsController INIZIO existView
+2015-05-12 14:52:19,585 [19] DEBUG GraspService.Controllers.ViewsController FINE existView
+2015-05-12 14:52:22,751 [17] DEBUG GraspService.Controllers.ViewsController INIZIO existView
+2015-05-12 14:52:22,876 [17] DEBUG GraspService.Controllers.ViewsController FINE existView
+2015-05-12 14:52:27,334 [19] DEBUG GraspService.Controllers.ViewsController INIZIO existView
+2015-05-12 14:52:27,526 [19] DEBUG GraspService.Controllers.ViewsController FINE existView

@@ -481,11 +481,6 @@
             </summary>
             <param name="documentPath">The physical path to XML document.</param>
         </member>
-        <member name="T:GraspService.Controllers.HomeController">
-            <summary>
-            EMA TEST
-            </summary>
-        </member>
         <member name="T:GraspService.Controllers.ViewsController">
             <summary>
             
